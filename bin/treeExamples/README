@@ -1,0 +1,4 @@
+#treeExamples
+- TreeDemo is the main class from where the other class methods are called.
+- Node is the source class to create nodes(root, parent and children) for trees.
+- different traversal methods, calculating height, insertion in BST are performed.
